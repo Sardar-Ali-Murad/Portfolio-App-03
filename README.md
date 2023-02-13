@@ -2,6 +2,7 @@
 <!-- First You Need to install the dependencies by running the npm install -->
 <!-- Then just npm run dev and you will be able to see the app on http://localhost:5173 and you can see this port on terminal as well-->
 <!-- There is also one more thing that you have to go to the  https://www.emailjs.com/docs/ and then you need to put your Secret Keys as mentioned in the contact.js -->
+<!-- npm run build for the production build -->
 
 
 ![MacBook Air - 2 (3)](https://user-images.githubusercontent.com/75136330/203812467-8b00176d-9d31-4c09-86c0-8b82b8c661eb.png)
